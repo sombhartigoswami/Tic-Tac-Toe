@@ -17,3 +17,4 @@ How to install and run this project ->
 (4). then open any code editor(vs code) and open the extract file 
 (5). open the project with live server or broswer
 
+
